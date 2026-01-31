@@ -1,1 +1,2 @@
-# NEW
+Leo Thomas
+2nd Year CSE
